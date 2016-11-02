@@ -1,0 +1,20 @@
+body {
+	background: url(http://www.karenfosterdesign.com/media/catalog/product/cache/5/image/9df78eab33525d08d6e5fb8d27136e95/6/5/65027_basketball-pattern.jpg);
+	height: 100%;
+	width: 100%;
+}
+
+.container {
+	background-color: orange;
+	margin-top: 10%;
+	margin-bottom: 10%;
+	padding:10px;
+}
+
+#question {
+	color: navy blue;
+}
+
+#timer {
+	color: navy blue;
+}
